@@ -1,2 +1,2 @@
-# lordofsoji-io2
+# lordofsoji.io
  css code for my task
