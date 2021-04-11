@@ -1,0 +1,49 @@
+body {
+    background-color: aqua;
+    color:black;
+    width: auto;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.input-group {
+    float: none;
+    font-weight: bold;
+}
+
+.radio {
+    display:inline-block;
+}
+
+.name {
+    width: 300px;
+    padding: 7px 15px;
+    line-height: 5px;
+}
+
+
+input {
+    margin: 10px 15px;
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 3px;
+    color:blue;
+    margin: 20px 5px;
+
+}
+
+h2 {
+    color: blue;
+    font-size: 30px;
+}
+
+
+.dob {
+    width:50px;
+
+}
